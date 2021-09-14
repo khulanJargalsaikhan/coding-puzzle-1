@@ -10,3 +10,8 @@
 	middleThree("peter") --- "ete"
 	middleThree("Jamaica") --- "mai"
 	
+	
+	
+	source: Udemy - Java Puzzles to Eliminate Code Fear by Imtiaz Ahmad (there are 19 puzzles)
+			
+	
